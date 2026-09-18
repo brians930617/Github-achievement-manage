@@ -8,8 +8,8 @@ import time
 
 TEXT_FILE_PATH = "text.txt"
 
-COAUTHOR_1 = "Co-authored-by: first-co-author-name <first-co-author-name@example.com>"
-COAUTHOR_2 = "Co-authored-by: second-co-author-name <second-co-author-name@example.com>"
+COAUTHOR_1 = "Co-authored-by: brians930617 <tranquangsang816@gmail.com>"
+COAUTHOR_2 = "Co-authored-by: marccohen0787 <veizwicchesttran@gmail.com>"
 
 COMMIT_MESSAGE = f"""
 Added a small change to {TEXT_FILE_PATH}
